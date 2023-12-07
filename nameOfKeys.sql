@@ -1,0 +1,1 @@
+select column_name,column_key from information_schema.columns where table_name="customers";
